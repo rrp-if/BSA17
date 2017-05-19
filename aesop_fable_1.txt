@@ -28,4 +28,8 @@ New comment 3g
 
 New comment 4
 
+<<<<<<< HEAD
 ffffffffffff
+=======
+gggggggggggggggggg
+>>>>>>> af6c2da30d9dde43efd4e1f06b0af99127ada896
