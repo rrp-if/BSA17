@@ -1,6 +1,4 @@
-##################################
-##### The Boy Who Cried Wolf #####
-##################################
+## The Boy Who Cried Wolf
 
 A shepherd-boy, who watched a flock of sheep near a village,
 brought out the villagers three or four times by crying out,
